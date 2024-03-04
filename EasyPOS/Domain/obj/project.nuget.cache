@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFj6nERH0Xm9XJdclkr7m2Ujc5pGX4KsqZXB+x3nCXUq2u9mTRPzs4nHXkbB2kYyD5xi1069uJEw492K2FvP8A==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\User\\Documents\\UNIVO - PRE 2024\\MODULO 1 ARQUITECTURA DE SOFTWARE LIMPIA\\PROYECTOS\\.NET Clean Architecture\\EasyPOS\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
